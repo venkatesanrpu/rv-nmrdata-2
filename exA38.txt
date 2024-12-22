@@ -1,0 +1,11 @@
+[
+  {
+    "id": "DMiz9qnE5/5KXwjXLO8UART4+uQ=",
+    "mf": "",
+    "idCodeHash": "0f739a84c3f1a52d73bb23f7872a85f3",
+    "file": "./30_Advanced/38/index.json",
+    "title": "Exercise 58",
+	"selected": true,
+    "idCode": "d@"
+  }
+]

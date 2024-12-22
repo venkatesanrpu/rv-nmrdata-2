@@ -1,0 +1,11 @@
+[
+  {
+    "id": "OoX/jIYb81lNmekIFYTKGS6CeP0=",
+    "mf": "C6H11NO3",
+    "idCodeHash": "8ad5f8c0992c51de43a3aeca105714e9",
+    "file": "./20_Intermediate/34/index.json",
+    "title": "Exercise 33",
+	"selected": true,
+    "idCode": "deVL@HAFR[f\\YVB@@@"
+  }
+]

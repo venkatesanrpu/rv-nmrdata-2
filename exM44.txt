@@ -1,0 +1,11 @@
+[
+  {
+    "id": "SBMfjPflQezGKeMhGTJHW2USsPs=",
+    "mf": "C13H22",
+    "idCodeHash": "b3360d31df86c95e251ed1887e81780c",
+    "file": "./20_Intermediate/44/index.json",
+    "title": "Exercise 40",
+	"selected": true,
+    "idCode": "dk|@@LdbbbRQKauS`@`@`@@"
+  }
+]

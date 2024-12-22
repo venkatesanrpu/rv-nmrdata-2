@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ED0XegenKYJmNuALZ//2Msfe+kM=",
+    "mf": "C9H18",
+    "idCodeHash": "1d07ab70eddcc7d043844f83c688f7c3",
+    "file": "./10_Beginner/03/index.json",
+    "title": "Exercise 2",
+	"selected": true,
+    "idCode": "did@@DjU^nBBH@@"
+  }
+]
