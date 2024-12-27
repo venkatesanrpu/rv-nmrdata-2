@@ -1,0 +1,546 @@
+[
+  {
+    "groupName": "Beginner Exercises",
+    "folderName": "10_Beginner",
+    "children": [
+      {
+        "id": "hwguYEmH2rqYD1EvqihGonh8Lmg=",
+        "mf": "C3H5O2Br",
+        "idCodeHash": "c2e4e00a982fd9d0aecc59b6f80f71ee",
+        "file": "./10_Beginner/01/index.json",
+        "title": "Exercise 1",
+        "selected": true,
+        "idCode": "gGPhCQbIJuS@@"
+      },
+      {
+        "id": "ED0XegenKYJmNuALZ//2Msfe+kM=",
+        "mf": "C9H18",
+        "idCodeHash": "1d07ab70eddcc7d043844f83c688f7c3",
+        "file": "./10_Beginner/03/index.json",
+        "title": "Exercise 2",
+        "idCode": "did@@DjU^nBBH@@"
+      },
+      {
+        "id": "Nj5gqdgVBHg9p5OdngoGCDUhymI=",
+        "mf": "C6H10",
+        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+        "file": "./10_Beginner/07/index.json",
+        "title": "Exercise 3",
+        "idCode": "gFp@DiTujh@"
+      },
+      {
+        "id": "vufwsesigFhiF8iyk6VVFBgbezg=",
+        "mf": "C8H12O2",
+        "idCodeHash": "5fbd37684322557351429b68829d571c",
+        "file": "./10_Beginner/14/index.json",
+        "title": "Exercise 4",
+        "idCode": "deTD@@eIYWVy`@d@@"
+      },
+      {
+        "id": "v9nzdtFdNvteTzDyUvqPRl6ylzc=",
+        "mf": "C8H19N",
+        "idCodeHash": "c60f87b94e03b2fede7b9cec1453c2f2",
+        "file": "./10_Beginner/27/index.json",
+        "title": "Exercise 5",
+        "idCode": "diF@@@ReUZjj@@"
+      },
+      {
+        "id": "JXtds+K7y+Wun+2HZvXtXQliWEs=",
+        "mf": "C3H7OCl",
+        "idCodeHash": "bc090203fa537be8696ddb32d7bfc9c5",
+        "file": "./10_Beginner/29/index.json",
+        "title": "Exercise 6",
+        "idCode": "gJQHLHaIVj@@"
+      },
+      {
+        "id": "gpKf5WsX75E/pDCZgcmEQ6ALy18=",
+        "mf": "C6H12O2",
+        "idCodeHash": "5fa0f7a667e95f887b2bdceea2d5bfec",
+        "file": "./10_Beginner/30/index.json",
+        "title": "Exercise 7",
+        "idCode": "daDD@@IIf]n``@@@"
+      },
+      {
+        "id": "XVN38SzDIHIg0YVyj0fn6wlu0Wc=",
+        "mf": "C6H10Cl2",
+        "idCodeHash": "4e0bc68a79ca2992f21880bf40c19c13",
+        "file": "./10_Beginner/33/index.json",
+        "title": "Exercise 8",
+        "idCode": "daD@P@bBbDfYvzB@@@"
+      },
+      {
+        "id": "gz9OcIz6dZpAg7zp6zFzIPaaPZY=",
+        "mf": "C16H35N",
+        "idCodeHash": "61c9bbd3b16c20f93b39ae42250ac627",
+        "file": "./10_Beginner/40/index.json",
+        "title": "Exercise 9",
+        "idCode": "fha`@@@IRjjjjuUUUUP@@"
+      },
+      {
+        "id": "wa1DOSEoIPzcu7fF/d/gBomP6M4=",
+        "mf": "C5H12O2",
+        "idCodeHash": "556b29c0fad17623cc178cd169d2434d",
+        "file": "./10_Beginner/46/index.json",
+        "title": "Exercise 10",
+        "idCode": "gNp`Adikjj@@"
+      },
+      {
+        "id": "7acrGjLjDkVoo58X3ROpiw1ybCM=",
+        "mf": "C3H7OCl",
+        "idCodeHash": "599af1c10edec637e99a3f7969f5b897",
+        "file": "./10_Beginner/50/index.json",
+        "title": "Exercise 11",
+        "idCode": "gJQHBHaIVj@@"
+      },
+      {
+        "id": "bGqumZ1+0OE7B9TNQEaYMBjB3yg=",
+        "mf": "C6H11O2Br",
+        "idCodeHash": "ac341ffb2af2e8d4f0a58d149060b79e",
+        "file": "./10_Beginner/62/index.json",
+        "title": "Exercise 12",
+        "idCode": "diDD`NDLQIUVjjX@@"
+      },
+      {
+        "id": "kaSY8LHTV5ls+cjYG3jEhtz5p+c=",
+        "mf": "C10H18O",
+        "idCodeHash": "d5dd6d2dba86077ba27530b63fa6550a",
+        "file": "./10_Beginner/64/index.json",
+        "title": "Exercise 13",
+        "idCode": "dmtH@@RYeUEV```@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Intermediate Series",
+    "folderName": "20_Intermediate",
+    "children": [
+      {
+        "id": "7EsMFnemnUI1i663R3wyymHaL5w=",
+        "mf": "C8H14O4",
+        "idCodeHash": "04a483750dc341611d6f36955d271e48",
+        "file": "./20_Intermediate/02/index.json",
+        "title": "Exercise 14",
+        "idCode": "dctB@@PYrJIQJUMUST@@"
+      },
+      {
+        "id": "FoRUheN8udzkOR2F71fPrgHTKZY=",
+        "mf": "C7H13Br",
+        "idCodeHash": "9e94804fddd225421b4a4e7be00ad122",
+        "file": "./20_Intermediate/04/index.json",
+        "title": "Exercise 15",
+        "idCode": "daD@`@qDeeVzjj`@"
+      },
+      {
+        "id": "XTDIaS9XXhZ7YT7hAu/1W3mzBoQ=",
+        "mf": "C5H8O",
+        "idCodeHash": "a9b01cde73c5b4f8c0256f22b40b9e93",
+        "file": "./20_Intermediate/05/index.json",
+        "title": "Exercise 16",
+        "idCode": "gFq@@eJftu@@"
+      },
+      {
+        "id": "h6z282dz3aKamPAkQAnZRIBnw6o=",
+        "mf": "C10H17Br",
+        "idCodeHash": "15b6e39a662605af5a5fc499080d3922",
+        "file": "./20_Intermediate/09/index.json",
+        "title": "Exercise 17",
+        "idCode": "dmL@`@qDfUmZZU`@@@@@"
+      },
+      {
+        "id": "uzU3PHrHOM5XbUvYvrnAU3IxMBI=",
+        "mf": "C6H12O2",
+        "idCodeHash": "763804ed8cb4e3b86a95799253e4926a",
+        "file": "./20_Intermediate/11/index.json",
+        "title": "Exercise 18",
+        "idCode": "daDD@@IIf]njjiHbH@",
+        "noStereoIDCodeHash": "cae55d588db5acd13e285776b25ff2cd",
+        "racemateIDCodeHash": "c603ebe37d823a3e5480466847256ba6"
+      },
+      {
+        "id": "3xptdLh2ffglfCwwaoVNhWP+Ofk=",
+        "mf": "C7H11NO4",
+        "idCodeHash": "d34e6f75969db963a5337583bcde4cfc",
+        "file": "./20_Intermediate/12/index.json",
+        "title": "Exercise 19",
+        "idCode": "dcNB@HAEuInYWFU`HF@@"
+      },
+      {
+        "id": "2k0ajPSZ5St0grWaGwFYbHyuCZo=",
+        "mf": "C13H22O3",
+        "idCodeHash": "7f12e83b9aa089456878de34755021ec",
+        "file": "./20_Intermediate/15/index.json",
+        "title": "Exercise 20",
+        "idCode": "f`qA`@@HddrsLk~gV|u@D@@@@@"
+      },
+      {
+        "id": "6trN81eFz5lFLuJU8X5QRoBKnEg=",
+        "mf": "C7H12O2",
+        "idCodeHash": "0c6601e798ede73d5ad9655262aca9a1",
+        "file": "./20_Intermediate/16/index.json",
+        "title": "Exercise 21",
+        "idCode": "didD@@iIYgxVB@@@"
+      },
+      {
+        "id": "+ST0drOxlbnFJqjRynF/CQCUiTI=",
+        "mf": "C9H16O3",
+        "idCodeHash": "6642f18e890feede2d5e7672e243d59f",
+        "file": "./20_Intermediate/17/index.json",
+        "title": "Exercise 22",
+        "idCode": "dcLL@@QTfvUtYZ`@h@@"
+      },
+      {
+        "id": "7gOYhPiwS6X5/86XK8+bVCT9IfA=",
+        "mf": "C9H13NO4",
+        "idCodeHash": "3c308a5f5bea7ecae186abe44cc2d463",
+        "file": "./20_Intermediate/19/index.json",
+        "title": "Exercise 23",
+        "idCode": "dg^B@HACmInUu[aV@BY`Hf@",
+        "noStereoIDCodeHash": "47e3bc556b086d302d1fce174239a52a"
+      },
+      {
+        "id": "2z899e//fQ/qddL8vSkPK+xO9fM=",
+        "mf": "C8H15NO2",
+        "idCodeHash": "61a03e977034eaf742bbf71a5c77523e",
+        "file": "./20_Intermediate/20/index.json",
+        "title": "Exercise 24",
+        "idCode": "dmvD@D@dfueYUj`@@@"
+      },
+      {
+        "id": "316pCTgTirQmSWnrkisr3W8GIys=",
+        "mf": "C9H18O3",
+        "idCodeHash": "668622be815b57a9ac4a18d3221fdcd5",
+        "file": "./20_Intermediate/21/index.json",
+        "title": "Exercise 25",
+        "idCode": "dcLL@@G\\dTRRbOKPPTP@@"
+      },
+      {
+        "id": "eUTES2dusKi3yc4YDzaBMOj66HE=",
+        "mf": "C9H16O3",
+        "idCodeHash": "d905437440b489bce4ef8d2757ad7de7",
+        "file": "./20_Intermediate/23/index.json",
+        "title": "Exercise 26",
+        "idCode": "dcLL@@RdfuYU]Zj@@@@"
+      },
+      {
+        "id": "2KyxhFmjwa0JEQXji5+A9xaENtI=",
+        "mf": "C9H16O3",
+        "idCodeHash": "2f558a932e4078e0776917a92828638a",
+        "file": "./20_Intermediate/24/index.json",
+        "title": "Exercise 27",
+        "idCode": "dcLL@@zTeeY]aX@bh@@"
+      },
+      {
+        "id": "gve7CnieYBNtbQrLttwa7h/H9V0=",
+        "mf": "C14H26O2",
+        "idCodeHash": "7d7af49481113519d86a4b417e8c43ad",
+        "file": "./20_Intermediate/25/index.json",
+        "title": "Exercise 28",
+        "idCode": "f`q@`@@NRfuvUugCVh@H@J@@@"
+      },
+      {
+        "id": "ea7cytQrAgsl/d1IGLh2cM1f6EQ=",
+        "mf": "C7H11O4Br",
+        "idCodeHash": "0297857e82877aa6189841d1be2e3e22",
+        "file": "./20_Intermediate/26/index.json",
+        "title": "Exercise 29",
+        "idCode": "dctB`BinCDRYf}ZfZj@@"
+      },
+      {
+        "id": "lYKKEvf9gCfmTw9uFPaHeOFIfU0=",
+        "mf": "C6H12O2Cl2",
+        "idCodeHash": "ef859476f982e2040b4ba36efc84d004",
+        "file": "./20_Intermediate/28/index.json",
+        "title": "Exercise 30",
+        "idCode": "dedDPLXHbXaIUUZjj`@"
+      },
+      {
+        "id": "jnlGlb17AA3Jtx0BRvxK1IusODI=",
+        "mf": "C6H13NO",
+        "idCodeHash": "0a6b33bb140e8206cddbe954ee88b2ba",
+        "file": "./20_Intermediate/31/index.json",
+        "title": "Exercise 31",
+        "idCode": "daFH@FAIeZn`B@@@"
+      },
+      {
+        "id": "JruZueqX144XDuPDHtuY/OWwhuI=",
+        "mf": "C7H12NF3",
+        "idCodeHash": "726599c83bb7ccdd37499f7639e945dd",
+        "file": "./20_Intermediate/32/index.json",
+        "title": "Exercise 32",
+        "idCode": "dmv@pIBPRPrPrJPqIPUj`B@@@"
+      },
+      {
+        "id": "OoX/jIYb81lNmekIFYTKGS6CeP0=",
+        "mf": "C6H11NO3",
+        "idCodeHash": "8ad5f8c0992c51de43a3aeca105714e9",
+        "file": "./20_Intermediate/34/index.json",
+        "title": "Exercise 33",
+        "idCode": "deVL@HAFR[f\\YVB@@@"
+      },
+      {
+        "id": "bpjAG2kP/uMFhQOZ79gRNSAJyyk=",
+        "mf": "C6H11NO3",
+        "idCodeHash": "293f61b7e1d50de500ace3bb4867aea4",
+        "file": "./20_Intermediate/35/index.json",
+        "title": "Exercise 34",
+        "idCode": "deVL@HAAR[e[iV@H@@"
+      },
+      {
+        "id": "5xhGXr1gWOt3xiKkFibA+4yn6Yo=",
+        "mf": "C4H10N2",
+        "idCodeHash": "448db011caa1e37e9969be0cac495c1e",
+        "file": "./20_Intermediate/36/index.json",
+        "title": "Exercise 35",
+        "idCode": "gFt@ATiTt@@@"
+      },
+      {
+        "id": "TYcNicEjO+FahD3V3GixSNafZyk=",
+        "mf": "C6H13O3P",
+        "idCodeHash": "7ee1cd00943ec780c2220e87629a1dae",
+        "file": "./20_Intermediate/37/index.json",
+        "title": "Exercise 36",
+        "idCode": "deTL`HS@|LddlRPru@@@@"
+      },
+      {
+        "id": "lu089cWf5mrWvKFM6Og85XRF2GQ=",
+        "mf": "C5H6O3",
+        "idCodeHash": "0bb722617d9ded16019064f555b1bc51",
+        "file": "./20_Intermediate/39/index.json",
+        "title": "Exercise 37",
+        "idCode": "daDL@@QdfUjyjf`@"
+      },
+      {
+        "id": "PlV/QaFSoEWVzC0fIjpM4E9gDEw=",
+        "mf": "C13H21NO3",
+        "idCodeHash": "525c69ceeb986aa56c48e81051a1f244",
+        "file": "./20_Intermediate/42/index.json",
+        "title": "Exercise 38",
+        "idCode": "fhia`@H@PiInUvyW`oAV@BX@@@@"
+      },
+      {
+        "id": "TkEAYV7RAp09PFNYmUFflhiA+9E=",
+        "mf": "C7H12BrF",
+        "idCodeHash": "aa3536078c9fc236d8b0c54a5d4b8550",
+        "file": "./20_Intermediate/43/index.json",
+        "title": "Exercise 39",
+        "idCode": "did@P@qAdDfY]n`HH@@"
+      },
+      {
+        "id": "SBMfjPflQezGKeMhGTJHW2USsPs=",
+        "mf": "C13H22",
+        "idCodeHash": "b3360d31df86c95e251ed1887e81780c",
+        "file": "./20_Intermediate/44/index.json",
+        "title": "Exercise 40",
+        "idCode": "dk|@@LdbbbRQKauS`@`@`@@"
+      },
+      {
+        "id": "r3CKA3P9/n0btWFQU7iL4ePwa7A=",
+        "mf": "C9H9NO2",
+        "idCodeHash": "97fce98347ff4e40a318f6b5125456d8",
+        "file": "./20_Intermediate/45/index.json",
+        "title": "Exercise 41",
+        "idCode": "dcND@MBldTtRROSPPQX@@"
+      },
+      {
+        "id": "1rKwVbLsLA8rru93LXgbRYcW6Zk=",
+        "mf": "C6H12O3",
+        "idCodeHash": "49892ce13611407ba1d7d6ce8d84eff9",
+        "file": "./20_Intermediate/47/index.json",
+        "title": "Exercise 42",
+        "idCode": "didL@@rdif\\fjjj@@"
+      },
+      {
+        "id": "irU3yPy89tgOvtmpxssi/cN0azE=",
+        "mf": "C9H16O5",
+        "idCodeHash": "6e0bec570689f27ab167b88d94bcd370",
+        "file": "./20_Intermediate/49/index.json",
+        "title": "Exercise 43",
+        "idCode": "dglJ@@SewHhdeBiduUTu@@"
+      },
+      {
+        "id": "YzRWNVUBQNM7M6gVKf7ZoOgdJ04=",
+        "mf": "C9H16O2",
+        "idCodeHash": "76d821b0001de29ae258a62e62afa641",
+        "file": "./20_Intermediate/52/index.json",
+        "title": "Exercise 44",
+        "idCode": "dmtD@@QInYdUZ@b@@@"
+      },
+      {
+        "id": "+FjjcsDmsk4brWAM+G55yMZfZKM=",
+        "mf": "C6H8O2",
+        "idCodeHash": "a5708384bcd3237567dbb38dd7adbf83",
+        "file": "./20_Intermediate/53/index.json",
+        "title": "Exercise 45",
+        "idCode": "daDD@@yIe^fZjX@@"
+      },
+      {
+        "id": "VFixCII88Tbc6r+xKsGoLlnGfvY=",
+        "mf": "C8H14O2",
+        "idCodeHash": "c5d832a7b2163ffcb0ef980e02323906",
+        "file": "./20_Intermediate/55/index.json",
+        "title": "Exercise 46",
+        "idCode": "deTD@@EIYWVy`@h@@"
+      },
+      {
+        "id": "X6hPQsbjYvwbpjGrB7dfsd0OE9k=",
+        "mf": "C7H11NO2",
+        "idCodeHash": "95f3b5cc1424666647c5a27a5edcca76",
+        "file": "./20_Intermediate/56/index.json",
+        "title": "Exercise 47",
+        "idCode": "defD@IADfUiZjk@@"
+      },
+      {
+        "id": "mtQkyMAJvfTk2XR+7u4L3+8jrQY=",
+        "mf": "C6H11O2ClS",
+        "idCodeHash": "6f587cee5844d04fe6f85fcac5c352c9",
+        "file": "./20_Intermediate/57/index.json",
+        "title": "Exercise 48",
+        "idCode": "deTDPDpHb@cHiCDdLrp@@@@"
+      },
+      {
+        "id": "2P2ehmaOvSHyJ5l75ttedNf6nv8=",
+        "mf": "C14H24O2",
+        "idCodeHash": "3177c357e4dab25484418fa442458e32",
+        "file": "./20_Intermediate/59/index.json",
+        "title": "Exercise 49",
+        "idCode": "f`q@`@@BRVUuYUgG^X@J`@@@@"
+      },
+      {
+        "id": "+6QCQZVysOpQY/s/fXnq1m7OtiE=",
+        "mf": "C8H14O3",
+        "idCodeHash": "3991363e07ae17f791fc4f516fa0fba7",
+        "file": "./20_Intermediate/61/index.json",
+        "title": "Exercise 50",
+        "idCode": "dmTL@@RTfUifjjX@@"
+      },
+      {
+        "id": "EHqEddFoxVqr1q6m2HLJhksg4o4=",
+        "mf": "C14H24O2",
+        "idCodeHash": "86d61c80f2587966ced8bd417e67e1d9",
+        "file": "./20_Intermediate/63/index.json",
+        "title": "Exercise 51",
+        "idCode": "f`q@`@@LRYfWg^Qg^ZB`@@@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Advanced Exercise",
+    "folderName": "30_Advanced",
+    "children": [
+      {
+        "id": "/4+k++Oz6urwyjz0NaS2aSkw52o=",
+        "mf": "C9H19NO",
+        "idCodeHash": "f0a1e35bf39894ab5e691dff6517f327",
+        "file": "./30_Advanced/06/index.json",
+        "title": "Exercise 52",
+        "idCode": "dmvH@LAI[YVUjh@@@@"
+      },
+      {
+        "id": "VgZv4mH1sm+1vp8Vs/lI+sMXuNg=",
+        "mf": "C8H17NO",
+        "idCodeHash": "54852c0cdef4eb62c8117b83262c8bf6",
+        "file": "./30_Advanced/08/index.json",
+        "title": "Exercise 53",
+        "idCode": "deVH@FAIfUqfhH@@@"
+      },
+      {
+        "id": "lnO408z95vRLkhSYnUI180eU638=",
+        "mf": "C14H25NO4",
+        "idCodeHash": "445e38e4f4179d904eec3c05a0e7de26",
+        "file": "./30_Advanced/10/index.json",
+        "title": "Exercise 54",
+        "idCode": "fly`P@L@QhvQQIRJVHqIQRuUUM@@@@@"
+      },
+      {
+        "id": "kHq6Oq6ZXiffkXS4zQlxwCeAp10=",
+        "mf": "C5H10O4",
+        "idCodeHash": "ebd164a8149c2c9f488f6b47852b318a",
+        "file": "./30_Advanced/13/index.json",
+        "title": "Exercise 55",
+        "idCode": "diDB@@SaR[iVjj@@"
+      },
+      {
+        "id": "oSBTqFwJ0srmIh36rFOue8wMpfc=",
+        "mf": "C7H10O4",
+        "idCodeHash": "c22f02e3bea2ca3e7da6b0d7df935695",
+        "file": "./30_Advanced/18/index.json",
+        "title": "Exercise 56",
+        "idCode": "dmLB@@RaRY[VInEjjjiLSP@",
+        "noStereoIDCodeHash": "7436d176a380aa3637f055bf3d888405",
+        "racemateIDCodeHash": "8910284f8624622b3032786184eff1aa"
+      },
+      {
+        "id": "uUcf6I6lOK2o0d2RXfyoov6iavQ=",
+        "mf": "C9H18N2O",
+        "idCodeHash": "91700c94ba8482ec13612320ad5aa3de",
+        "file": "./30_Advanced/22/index.json",
+        "title": "Exercise 57",
+        "idCode": "dcMH@DHDf{YU]Zj@@cH@",
+        "noStereoIDCodeHash": "b1e2461e2deaf59ccbed2c1f58a9b60e",
+        "racemateIDCodeHash": "57634b3cb0e89264312641ab496c20bd"
+      },
+      {
+        "id": "2xK8fN4yFjc5wuLw8XDNrLYM0Ms=",
+        "mf": "C9H8N2",
+        "idCodeHash": "4edf36688920a5f45dcfe4e0eca4c035",
+        "file": "./30_Advanced/38/index.json",
+        "title": "Exercise 58",
+        "idCode": "dmM@@@kIEDhTbjUfX@H@@"
+      },
+      {
+        "id": "1GEpxhriH8NCDe8tyPEzB1LAcrg=",
+        "mf": "C6H12O5",
+        "idCodeHash": "66c622ea3b12ab02bbc1f28fd9f1a5a4",
+        "file": "./30_Advanced/41/index.json",
+        "title": "Exercise 59",
+        "idCode": "dmtJ@@siWIEDeDZFjjjlJTa`@",
+        "noStereoIDCodeHash": "ad94b56957f14d2f1b977dc4b7e30010",
+        "racemateIDCodeHash": "05cdf36c1aecc3c3a4751263a7b74b2c"
+      },
+      {
+        "id": "a7tfSQKXwYnWhLjyHYUed9Qix6c=",
+        "mf": "C10H20O",
+        "idCodeHash": "12490209c8e764738de483be15bf9cbc",
+        "file": "./30_Advanced/48/index.json",
+        "title": "Exercise 60",
+        "idCode": "dmtH@@RYeeZZjjjRDt@",
+        "noStereoIDCodeHash": "6b895ee68950a73126a9c1e7a51daebe",
+        "racemateIDCodeHash": "b234a1d054587a4341dfb0da2cdbe7e7"
+      },
+      {
+        "id": "PNumAOPOxdFl3urMZmuNQCAckic=",
+        "mf": "C8H12O3",
+        "idCodeHash": "a4c0a38f508559a08ce9cb321622f23c",
+        "file": "./30_Advanced/51/index.json",
+        "title": "Exercise 61",
+        "idCode": "dmLL@@QTfUUrhYZh@`@@"
+      },
+      {
+        "id": "jY7KO5AxJ+OtX0mWKmD4cRp2Dfc=",
+        "mf": "C5H7NO3",
+        "idCodeHash": "20732f5d739b4e690828b1ccae9db643",
+        "file": "./30_Advanced/54/index.json",
+        "title": "Exercise 62",
+        "idCode": "difL@DBnRYulIjih@@"
+      },
+      {
+        "id": "RwrL79HLx15u9Mq+xKTBL0AyeUw=",
+        "mf": "C10H21N5O4",
+        "idCodeHash": "b2c35d2478fb419254dc256632c0d1e8",
+        "file": "./30_Advanced/58/index.json",
+        "title": "Exercise 63",
+        "idCode": "fluhP@LF]EHIJudbbbbRTUVQJV\\FMUPU@@TAHQDIJH@",
+        "noStereoIDCodeHash": "cb04b724e1962d9ebeeb8fb0da4b5c2f",
+        "racemateIDCodeHash": "41478649115825570367f65ffcbdf965"
+      },
+      {
+        "id": "AP8jjUSg6vRTR6JqmvIUa4XkKnY=",
+        "mf": "C4HO3Br",
+        "idCodeHash": "3b4b0542f26617353683f1540bc696ad",
+        "file": "./30_Advanced/60/index.json",
+        "title": "Exercise 64",
+        "idCode": "daDL`Bk`qLbbbMMRtp@@"
+      }
+    ]
+  }
+]
